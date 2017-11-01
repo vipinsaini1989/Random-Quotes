@@ -1,0 +1,29 @@
+body {
+	background-color: purple;
+	font-family: sans-serif,verdana;
+}
+div {
+	width: 30%;
+	height: 10%;
+	margin-left: 40%;
+}
+.para1 {
+	text-align: left;
+	font-size: 16px;
+}
+.para2 {
+	text-align: right;
+	font-family: 'Satisfy', cursive;
+}
+h1{
+	margin-top: 5%;
+	margin-left: 40%;
+}
+button {
+	margin-left: 40%;
+	padding: 0.75%;
+	font-size: 14px;
+	border:2px solid white;
+	background-color: transparent;
+	color: white;
+}
